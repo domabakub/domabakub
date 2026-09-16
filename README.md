@@ -19,3 +19,4 @@ Web Developer
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/domabakub"><img src="https://github-readme-streak-stats.herokuapp.com/?user=domabakub&stroke=ffffff&background=171717&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<img width="402" height="360" alt="giphy" src="https://github.com/user-attachments/assets/aaeaca22-84ee-4df0-906d-67568b126d31" />
